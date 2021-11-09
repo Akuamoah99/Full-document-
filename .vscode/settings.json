@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 888888,
+            "server": "tada.db.amazon.com",
+            "port": 8200,
+            "driver": "AWS Redshift",
+            "name": "AWS",
+            "database": "tadadb",
+            "username": "akuamos",
+            "password": "Outdoor123",
+            "connectionTimeout": 88888888
+        }
+    ]
+}
